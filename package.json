@@ -1,0 +1,22 @@
+{
+  "name": "tdd-workshop",
+  "version": "1.0.0",
+  "description": "Workshop on Test driven Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daanwissing/tdd-workshop-js.git"
+  },
+  "author": "Daan Wissing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daanwissing/tdd-workshop-js/issues"
+  },
+  "homepage": "https://github.com/daanwissing/tdd-workshop-js#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}

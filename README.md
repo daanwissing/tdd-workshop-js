@@ -1,11 +1,9 @@
 # TDD Workshop
 
-## Git url: 
-
-- https://github.com/daanwissing/tdd-workshop-js.git  
+## Preparation 
 
 ### Requirements
-- node
+- node (at least version 16.15)
 
 ### Run:
 ```
@@ -14,6 +12,9 @@ $ cd tdd-workshop-js
 $ npm install
 $ npm test
 ```
+
+If you get a certificate error, try a different WiFi network.
+
 ## Tennis game requirement: 
 
 > Implement a function that, given a tennis game, prints out the current score of the game.
